@@ -1,4 +1,4 @@
-# Ptero-VM
+# Ptero-VM Ubuntu 22.04 fork release [TukangM/Ptero-VM-JAR/releases/tag/lastest](https://github.com/TukangM/Ptero-VM-JAR/releases/tag/lastest)
 
 Root-Instance inside of pterodactyl's docker container with Proot.
 
@@ -10,7 +10,7 @@ Root-Instance inside of pterodactyl's docker container with Proot.
 ## 💁‍♀️ How to use
 
 - first make a server (js/py/java server)
-- then download the [`server.py`](https://raw.githubusercontent.com/afnan007a/Ptero-vm/main/server.py), [`server.jar`](https://github.com/RealTriassic/Ptero-VM-JAR/releases/download/latest/server.jar) or [`server.js`](https://raw.githubusercontent.com/afnan007a/Ptero-vm/main/server.js) file  
+- then download the [`server.py`](https://raw.githubusercontent.com/TukangM/Ptero-vm/main/server.py), `server.jar`not available due not having knowledge compile java or [`server.js`](https://raw.githubusercontent.com/afnan007a/Ptero-vm/main/server.js) file  
 - then upload the files to your server via file manager or sftp
 - then go to startup section of the server and name it `server.py` (if u made python server and downloaded the server.py file) or `server.js` (if u made js server and downloaded the server.js file)  `server.jar` (if u made java server and downloaded the server.jar file)
 - now start the server and it will install the files for you and run PteroVM
