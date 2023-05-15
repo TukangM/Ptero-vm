@@ -3,8 +3,8 @@
 Root-Instance inside of pterodactyl's docker container with Proot.
 
 ## Issue
-1.i dont know how compile java server.jar so idk how
-2.server.js not working for some reason due newer node.js. so try lower version like 10.x 12.x 
+ - i dont know how compile java server.jar so idk how
+ - server.js not working for some reason due newer node.js. so try lower version like 10.x 12.x 
 
 ## ✨ Features
 
