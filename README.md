@@ -5,6 +5,8 @@ Root-Instance inside of pterodactyl's docker container with Proot.
 ## Issue
  - i dont know how compile java server.jar so idk how
  - server.js not working for some reason due newer node.js. so try lower version like 10.x 12.x 
+ - if you get this error. just ignore ![image](https://github.com/TukangM/Ptero-vm/assets/91467886/b293d4bf-2156-4540-8c0f-2ed24d71b081)
+
 
 ## ✨ Features
 
